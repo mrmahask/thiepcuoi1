@@ -48,7 +48,7 @@ export default function App() {
   const events: WeddingEvent[] = [
     {
       title: 'LỄ VU QUY (NHÀ GÁI)',
-      date: 'Thứ Bảy, ngày 28 tháng 11 năm 2026',
+      date: 'Thứ Bảy, ngày 18 tháng 07 năm 2026',
       time: '11:00 AM',
       locationName: 'Tư Gia Nhà Gái',
       address: '123 Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh',
@@ -56,7 +56,7 @@ export default function App() {
     },
     {
       title: 'LỄ THÀNH HÔN & TIỆC CƯỚI (NHÀ TRAI)',
-      date: 'Chủ Nhật, ngày 29 tháng 11 năm 2026',
+      date: 'Chủ Nhật, ngày 19 tháng 07 năm 2026',
       time: '17:30 PM',
       locationName: 'Riverside Wedding & Event Palace',
       address: '360 Đường Bến Vân Đồn, Phường 1, Quận 4, TP. Hồ Chí Minh',
@@ -150,7 +150,7 @@ export default function App() {
                     Save the Date
                   </p>
                   <p className="font-mono text-xs text-stone-400 tracking-widest">
-                    28 - 11 - 2026
+                    19 - 07 - 2026
                   </p>
                 </motion.div>
 
@@ -226,7 +226,7 @@ export default function App() {
                   Cùng Đếm Ngược Thời Gian
                 </h3>
                 <div className="h-[1px] w-12 bg-amber-300 mx-auto mb-4" />
-                <Countdown targetDate="2026-11-28T11:00:00" />
+                <Countdown targetDate="2026-07-19T11:00:00" />
               </div>
             </section>
 
