@@ -1,0 +1,6 @@
+{
+  "name": "Thiệp Cưới Duy Anh & Thanh Bình",
+  "description": "Thiệp mời đám cưới trực tuyến sang trọng và tinh tế cho ngày trọng đại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
